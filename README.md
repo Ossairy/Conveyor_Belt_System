@@ -1,2 +1,10 @@
 # Convyer_Belt_System
-This convyer belt is designed to work between two moveo Robots. This project is designed and implemented through my internship period in the MRS Research Lab -Multi Robot Systems - in German University in Cairo
+
+
+Project Objective :  
+   the project objective is to design and manufacture Convyer belt to link between two Moveo Robots.
+
+Project Duration :
+    August 2021 ; during my internship period in MRS research Lab -Multi Robot Systems- in german university in cairo.
+    
+Project Description :
