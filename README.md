@@ -2,9 +2,11 @@
 
 
 Project Objective :  
-   the project objective is to design and manufacture Convyer belt to link between two Moveo Robots.
+ 
+  the project objective is to design and manufacture Convyer belt to link between two Moveo Robots.
 
 Project Duration :
-    August 2021 ; during my internship period in MRS research Lab -Multi Robot Systems- in german university in cairo.
+
+   August 2021 ; during my internship period in MRS research Lab -Multi Robot Systems- in german university in cairo.
     
 Project Description :
