@@ -1,9 +1,9 @@
-# Convyer_Belt_System
+# Conveyor_Belt_System
 
 
 Project Objective :  
    
-    the project objective is to design and manufacture Convyer belt to link between two Moveo Robots.
+    the project objective is to design and manufacture Conveyor belt to link between two Moveo Robots.
     
 Project Duration :
     
@@ -11,4 +11,4 @@ Project Duration :
     
 Project Description :
     
-    First the convyer belt is designed and modeled on Solidworks and then the designed parts is manufactured using CNC Router , conventional Lathe and Milling machine -for the rollers and tensioner blocks- , and last but not least a software is designed to sense if there is something is on the convyer and move the belt to the other side and stop the belt if the object is arrived to the location where the other robot can hold it.
+    First the convyer belt is designed and modeled on Solidworks and then the designed parts is manufactured using CNC Router , conventional Lathe and Milling machine -for the rollers and tensioner blocks- , and last but not least a software is designed to sense if there is something is on the Conveyor and move the belt to the other side and stop the belt if the object is arrived to the location where the other robot can hold it.
